@@ -76,6 +76,8 @@ public class App {
         System.out.printf("Imposto devido: %.2f\n", imp_devido);
         System.out.println();
 
+            sc.close();
+
 
     }
 }
